@@ -1,0 +1,10 @@
+ddgs>=0.230
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+groq
+tiktoken
+urllib3<2.0
+streamlit
+
