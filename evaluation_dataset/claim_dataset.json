@@ -1,0 +1,27 @@
+[
+  {
+    "id": "claim_ex1",
+    "text_chunk": "Moderate coffee consumption is associated with a lower risk of heart disease, while drinking very large amounts of coffee may increase blood pressure.",
+    "true_claims": [
+      "Moderate coffee consumption is associated with a lower risk of heart disease.",
+      "Drinking very large amounts of coffee may increase blood pressure."
+    ]
+  },
+  {
+    "id": "claim_ex2",
+    "text_chunk": "Red stop signs are easier for drivers to see than yellow ones because the color red has higher contrast in most environments.",
+    "true_claims": [
+      "Red stop signs are easier for drivers to see than yellow ones.",
+      "The color red has higher contrast than yellow in most environments."
+    ]
+  },
+  {
+    "id": "claim_ex3",
+    "text_chunk": "A standard stop sign has an octagonal shape and is used to instruct drivers to come to a complete stop at intersections.",
+    "true_claims": [
+      "A standard stop sign has an octagonal shape.",
+      "A stop sign is used to instruct drivers to come to a complete stop at intersections."
+    ]
+  }
+]
+

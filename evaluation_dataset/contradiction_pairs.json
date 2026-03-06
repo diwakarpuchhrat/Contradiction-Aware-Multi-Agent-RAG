@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pair1",
+    "claim_1": "Moderate coffee consumption is associated with a lower risk of heart disease.",
+    "claim_2": "Coffee consumption increases the risk of heart disease even in moderate amounts.",
+    "true_label": "contradicts"
+  },
+  {
+    "id": "pair2",
+    "claim_1": "Red stop signs are easier for drivers to see than yellow ones.",
+    "claim_2": "Red stop signs are more visible to drivers than yellow stop signs.",
+    "true_label": "entails"
+  },
+  {
+    "id": "pair3",
+    "claim_1": "A standard stop sign has an octagonal shape.",
+    "claim_2": "Stop signs instruct drivers to come to a complete stop at intersections.",
+    "true_label": "neutral"
+  },
+  {
+    "id": "pair4",
+    "claim_1": "Very high intake of coffee may increase blood pressure.",
+    "claim_2": "Moderate coffee consumption is associated with a lower risk of heart disease.",
+    "true_label": "neutral"
+  }
+]
+

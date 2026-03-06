@@ -1,0 +1,42 @@
+{
+  "chunks": [
+    {
+      "id": "c1",
+      "text": "Moderate coffee consumption is associated with a lower risk of heart disease in several observational studies."
+    },
+    {
+      "id": "c2",
+      "text": "Very high intake of coffee may increase blood pressure and cause side effects such as anxiety or insomnia."
+    },
+    {
+      "id": "c3",
+      "text": "Red stop signs provide higher contrast and visibility than yellow signs in most lighting conditions."
+    },
+    {
+      "id": "c4",
+      "text": "Historically, some regions experimented with yellow stop signs, but modern traffic standards recommend red."
+    },
+    {
+      "id": "c5",
+      "text": "Stop signs are octagonal traffic control devices that instruct vehicles to come to a complete halt."
+    }
+  ],
+  "queries": [
+    {
+      "id": "q1",
+      "query": "Is coffee good or bad for heart health?",
+      "relevant_chunk_ids": ["c1", "c2"]
+    },
+    {
+      "id": "q2",
+      "query": "Should stop signs be red or yellow?",
+      "relevant_chunk_ids": ["c3", "c4"]
+    },
+    {
+      "id": "q3",
+      "query": "What is the purpose of a stop sign?",
+      "relevant_chunk_ids": ["c5"]
+    }
+  ]
+}
+

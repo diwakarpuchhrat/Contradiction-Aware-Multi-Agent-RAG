@@ -1,5 +1,6 @@
 import os
-import dotenv
+from dotenv import load_dotenv
+
 load_dotenv()
 
 EMBEDDING_MODEL = "sentence-transformers/all-mpnet-base-v2"
